@@ -1,0 +1,151 @@
+{
+  "version": "2.1",
+  "groups": [
+    {
+      "name": "a",
+      "urls": [
+        "aa"
+      ],
+      "substitutions": [
+        {
+          "input": "a",
+          "inputType": "text",
+          "output": "a",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "Queerfobia",
+      "urls": [],
+      "substitutions": [
+        {
+          "input": "tgirl",
+          "inputType": "text",
+          "output": "trans woman",
+          "caseSensitive": false
+        },
+        {
+          "input": "t-girl",
+          "inputType": "text",
+          "output": "trans woman",
+          "caseSensitive": false
+        },
+        {
+          "input": "tranny",
+          "inputType": "text",
+          "output": "trans person",
+          "caseSensitive": false
+        },
+        {
+          "input": "tranzol",
+          "inputType": "text",
+          "output": "trans osoba",
+          "caseSensitive": false
+        },
+        {
+          "input": "pedał",
+          "inputType": "text",
+          "output": "gej",
+          "caseSensitive": false
+        },
+        {
+          "input": "transwestyta",
+          "inputType": "text",
+          "output": "trans osoba",
+          "caseSensitive": false
+        },
+        {
+          "input": "transwestytka",
+          "inputType": "text",
+          "output": "trans osoba",
+          "caseSensitive": false
+        },
+        {
+          "input": "41%",
+          "inputType": "text",
+          "output": "[hej, możliwe że tu była transfobia więc zakryłam dla ciebie uwu]",
+          "caseSensitive": false
+        },
+        {
+          "input": "ideologia lgbt",
+          "inputType": "text",
+          "output": "osoby lgbt",
+          "caseSensitive": false
+        },
+        {
+          "input": "dewiacja",
+          "inputType": "text",
+          "output": "różnorodność seksualna",
+          "caseSensitive": false
+        },
+        {
+          "input": "dewiant",
+          "inputType": "text",
+          "output": "turbokozak",
+          "caseSensitive": false
+        },
+        {
+          "input": "sissy",
+          "inputType": "text",
+          "output": "trans person",
+          "caseSensitive": false
+        },
+        {
+          "input": "wokeizm",
+          "inputType": "text",
+          "output": "moja stara",
+          "caseSensitive": false
+        },
+        {
+          "input": "wokeiści",
+          "inputType": "text",
+          "output": "[gada głupoty]",
+          "caseSensitive": false
+        },
+        {
+          "input": "wokeisci",
+          "inputType": "text",
+          "output": "[fajni ludzie]",
+          "caseSensitive": false
+        },
+        {
+          "input": "ideologia woke",
+          "inputType": "text",
+          "output": "[ideologia bycia kozakiem]",
+          "caseSensitive": false
+        },
+        {
+          "input": "dziwka",
+          "inputType": "text",
+          "output": "[sex workerka]",
+          "caseSensitive": false
+        },
+        {
+          "input": "kurwa",
+          "inputType": "text",
+          "output": "[sex workerka]",
+          "caseSensitive": false
+        },
+        {
+          "input": "murzyn",
+          "inputType": "text",
+          "output": "[osoba czarnoskóra]",
+          "caseSensitive": false
+        },
+        {
+          "input": "czarnuch",
+          "inputType": "text",
+          "output": "[osoba czarnoskóra]",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    }
+  ]
+}
