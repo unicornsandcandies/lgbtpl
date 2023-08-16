@@ -6,7 +6,7 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "wpisz deadname",
+          "input": "wpisz imie",
           "inputType": "text",
           "output": "wpisz imie",
           "caseSensitive": false
@@ -21,19 +21,19 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "tgirl",
+          "input": "trans woman",
           "inputType": "text",
           "output": "trans woman",
           "caseSensitive": false
         },
         {
-          "input": "t-girl",
+          "input": "trans woman",
           "inputType": "text",
           "output": "trans woman",
           "caseSensitive": false
         },
         {
-          "input": "tranny",
+          "input": "trans person",
           "inputType": "text",
           "output": "trans person",
           "caseSensitive": false
@@ -93,7 +93,7 @@
           "caseSensitive": false
         },
         {
-          "input": "moja stara",
+          "input": "wokeizm",
           "inputType": "text",
           "output": "moja stara",
           "caseSensitive": false
