@@ -2,15 +2,13 @@
   "version": "2.1",
   "groups": [
     {
-      "name": "a",
-      "urls": [
-        "aa"
-      ],
+      "name": "deadname",
+      "urls": [],
       "substitutions": [
         {
-          "input": "a",
+          "input": "wpisz deadname",
           "inputType": "text",
-          "output": "a",
+          "output": "wpisz imie",
           "caseSensitive": false
         }
       ],
@@ -41,103 +39,103 @@
           "caseSensitive": false
         },
         {
-          "input": "tranzol",
+          "input": "trans osoba",
           "inputType": "text",
           "output": "trans osoba",
           "caseSensitive": false
         },
         {
-          "input": "pedał",
+          "input": "gej",
           "inputType": "text",
           "output": "gej",
           "caseSensitive": false
         },
         {
-          "input": "transwestyta",
+          "input": "trans osoba",
           "inputType": "text",
           "output": "trans osoba",
           "caseSensitive": false
         },
         {
-          "input": "transwestytka",
+          "input": "trans osoba",
           "inputType": "text",
           "output": "trans osoba",
           "caseSensitive": false
         },
         {
-          "input": "41%",
+          "input": "[hej, możliwe że tu była transfobia więc zakryłam dla ciebie uwu]",
           "inputType": "text",
           "output": "[hej, możliwe że tu była transfobia więc zakryłam dla ciebie uwu]",
           "caseSensitive": false
         },
         {
-          "input": "ideologia lgbt",
+          "input": "osoby lgbt",
           "inputType": "text",
           "output": "osoby lgbt",
           "caseSensitive": false
         },
         {
-          "input": "dewiacja",
+          "input": "różnorodność seksualna",
           "inputType": "text",
           "output": "różnorodność seksualna",
           "caseSensitive": false
         },
         {
-          "input": "dewiant",
+          "input": "turbokozak",
           "inputType": "text",
           "output": "turbokozak",
           "caseSensitive": false
         },
         {
-          "input": "sissy",
+          "input": "trans person",
           "inputType": "text",
           "output": "trans person",
           "caseSensitive": false
         },
         {
-          "input": "wokeizm",
+          "input": "moja stara",
           "inputType": "text",
           "output": "moja stara",
           "caseSensitive": false
         },
         {
-          "input": "wokeiści",
+          "input": "[gada głupoty]",
           "inputType": "text",
           "output": "[gada głupoty]",
           "caseSensitive": false
         },
         {
-          "input": "wokeisci",
+          "input": "[fajni ludzie]",
           "inputType": "text",
           "output": "[fajni ludzie]",
           "caseSensitive": false
         },
         {
-          "input": "ideologia woke",
+          "input": "[ideologia bycia kozakiem]",
           "inputType": "text",
           "output": "[ideologia bycia kozakiem]",
           "caseSensitive": false
         },
         {
-          "input": "dziwka",
+          "input": "[sex workerka]",
           "inputType": "text",
           "output": "[sex workerka]",
           "caseSensitive": false
         },
         {
-          "input": "kurwa",
+          "input": "[sex workerka]",
           "inputType": "text",
           "output": "[sex workerka]",
           "caseSensitive": false
         },
         {
-          "input": "murzyn",
+          "input": "[osoba czarnoskóra]",
           "inputType": "text",
           "output": "[osoba czarnoskóra]",
           "caseSensitive": false
         },
         {
-          "input": "czarnuch",
+          "input": "[osoba czarnoskóra]",
           "inputType": "text",
           "output": "[osoba czarnoskóra]",
           "caseSensitive": false
